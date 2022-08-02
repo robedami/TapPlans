@@ -118,7 +118,7 @@
     <TestStep type="Keysight.OpenTap.Plugins.LoadCore.JSONConfiguration.Steps.AssignAgentToNode" Version="1.1.0-beta.1+f3782d19" Id="50ace881-1b69-49bd-996e-3da7f9a8c0dc">
       <MWInstrument Source="OpenTap.InstrumentSettings">Load Core MW</MWInstrument>
       <SelectedNode>AMF</SelectedNode>
-      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">vm_agent_2</SelectedAgent>
+      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">agent</SelectedAgent>
       <agentInterface_amf_n2>ens160</agentInterface_amf_n2>
       <agentInterface_amf_namf>ens160</agentInterface_amf_namf>
       <agentInterface_amf_n26>ens160</agentInterface_amf_n26>
@@ -169,7 +169,7 @@
     <TestStep type="Keysight.OpenTap.Plugins.LoadCore.JSONConfiguration.Steps.AssignAgentToNode" Version="1.1.0-beta.1+f3782d19" Id="a3453f83-3aed-4704-b0fe-cecf4cb3edaf">
       <MWInstrument Source="OpenTap.InstrumentSettings">Load Core MW</MWInstrument>
       <SelectedNode>UDM</SelectedNode>
-      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">vm_agent_2</SelectedAgent>
+      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">agent</SelectedAgent>
       <agentInterface_amf_n2></agentInterface_amf_n2>
       <agentInterface_amf_namf></agentInterface_amf_namf>
       <agentInterface_amf_n26></agentInterface_amf_n26>
@@ -220,7 +220,7 @@
     <TestStep type="Keysight.OpenTap.Plugins.LoadCore.JSONConfiguration.Steps.AssignAgentToNode" Version="1.1.0-beta.1+f3782d19" Id="fcf3dafe-a4f4-40b3-83bb-448fd781c4b5">
       <MWInstrument Source="OpenTap.InstrumentSettings">Load Core MW</MWInstrument>
       <SelectedNode>SMF</SelectedNode>
-      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">vm_agent_2</SelectedAgent>
+      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">agent</SelectedAgent>
       <agentInterface_amf_n2></agentInterface_amf_n2>
       <agentInterface_amf_namf></agentInterface_amf_namf>
       <agentInterface_amf_n26></agentInterface_amf_n26>
@@ -271,7 +271,7 @@
     <TestStep type="Keysight.OpenTap.Plugins.LoadCore.JSONConfiguration.Steps.AssignAgentToNode" Version="1.1.0-beta.1+f3782d19" Id="1ce6ec35-7023-43c8-b362-50109996d39d">
       <MWInstrument Source="OpenTap.InstrumentSettings">Load Core MW</MWInstrument>
       <SelectedNode>AUSF</SelectedNode>
-      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">vm_agent_2</SelectedAgent>
+      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">agent</SelectedAgent>
       <agentInterface_amf_n2></agentInterface_amf_n2>
       <agentInterface_amf_namf></agentInterface_amf_namf>
       <agentInterface_amf_n26></agentInterface_amf_n26>
@@ -322,7 +322,7 @@
     <TestStep type="Keysight.OpenTap.Plugins.LoadCore.JSONConfiguration.Steps.AssignAgentToNode" Version="1.1.0-beta.1+f3782d19" Id="7f7d8321-8235-4b6e-bd23-b41a11a73441">
       <MWInstrument Source="OpenTap.InstrumentSettings">Load Core MW</MWInstrument>
       <SelectedNode>PCF</SelectedNode>
-      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">vm_agent_2</SelectedAgent>
+      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">agent</SelectedAgent>
       <agentInterface_amf_n2></agentInterface_amf_n2>
       <agentInterface_amf_namf></agentInterface_amf_namf>
       <agentInterface_amf_n26></agentInterface_amf_n26>
@@ -373,7 +373,7 @@
     <TestStep type="Keysight.OpenTap.Plugins.LoadCore.JSONConfiguration.Steps.AssignAgentToNode" Version="1.1.0-beta.1+f3782d19" Id="a762dc4e-e701-4e86-aced-0ec49ba41b87">
       <MWInstrument Source="OpenTap.InstrumentSettings">Load Core MW</MWInstrument>
       <SelectedNode>UDR</SelectedNode>
-      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">vm_agent_2</SelectedAgent>
+      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">agent</SelectedAgent>
       <agentInterface_amf_n2></agentInterface_amf_n2>
       <agentInterface_amf_namf></agentInterface_amf_namf>
       <agentInterface_amf_n26></agentInterface_amf_n26>
@@ -424,7 +424,7 @@
     <TestStep type="Keysight.OpenTap.Plugins.LoadCore.JSONConfiguration.Steps.AssignAgentToNode" Version="1.1.0-beta.1+f3782d19" Id="88364d9d-d9e9-4fd5-b5a3-e197c744952b">
       <MWInstrument Source="OpenTap.InstrumentSettings">Load Core MW</MWInstrument>
       <SelectedNode>SMSF</SelectedNode>
-      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">vm_agent_2</SelectedAgent>
+      <SelectedAgent type="emb:Keysight.OpenTap.Plugins.LoadCore.Instruments.LoadCoreAgent" Source="OpenTap.InstrumentSettings">agent</SelectedAgent>
       <agentInterface_amf_n2></agentInterface_amf_n2>
       <agentInterface_amf_namf></agentInterface_amf_namf>
       <agentInterface_amf_n26></agentInterface_amf_n26>
